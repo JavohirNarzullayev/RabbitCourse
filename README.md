@@ -18,6 +18,7 @@
 
 
 ##Qabul qiluvchi (Consumer)
+
 ![img.png](img.png)
 
 ```java
